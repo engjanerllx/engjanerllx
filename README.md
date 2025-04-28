@@ -20,5 +20,6 @@ I spend 2 hours coding and 5 hours picking a font.
 [![TikTok](https://img.shields.io/badge/-TikTok-black?style=flat&logo=tiktok)](https://tiktok.com/@cali.raine)
 
 
-![image](https://github.com/user-attachments/assets/c0552b4a-3b42-4af3-956d-cf20456a197c)
+![GIF of a bunny with a laptop](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
 "Me trying to fix one line of code for 5 hours"
