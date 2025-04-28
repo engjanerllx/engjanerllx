@@ -23,3 +23,7 @@ I spend 2 hours coding and 5 hours picking a font.
 ![GIF of a bunny with a laptop](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
 "Me trying to fix one line of code for 5 hours"
+
+
+💖 Thanks for visiting my lil' corner of GitHub!
+Remember: If at first your code doesn't succeed... cry and try again! 😭✨
