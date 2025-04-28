@@ -26,4 +26,5 @@ I spend 2 hours coding and 5 hours picking a font.
 
 
 💖 Thanks for visiting my lil' corner of GitHub!
+
 Remember: If at first your code doesn't succeed... cry and try again! 😭✨
